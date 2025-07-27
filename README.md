@@ -2,6 +2,8 @@
 
 This is a self-directed reading project following the curriculum of a university Department of English Language and Literature. The focus is on reading core texts independently, without lectures, exams, or formal enrollment.
 
+Project progress is tracked on this [GitHub Project board](https://github.com/users/hwahyeon/projects/5).
+
 |Offered in|English Title|Korean Title|Workbook <br/> provided|Completed|
 |---|---|---|:---:|:---:|
 |1-1|Basic English Grammar|영문법의기초|||
