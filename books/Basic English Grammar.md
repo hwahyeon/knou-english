@@ -5,7 +5,7 @@
 **Labels:** Basic English Grammar
 
 ## Chapters
-- [ ] Chapter 1: Verbs
+- [x] Chapter 1: Verbs
 - [ ] Chapter 2: Tense
 - [ ] Chapter 3: Infinitive
 - [ ] Chapter 4: Gerund
