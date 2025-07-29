@@ -6,7 +6,7 @@
 
 ## Chapters
 - [x] Chapter 1: Verbs
-- [ ] Chapter 2: Tense
+- [x] Chapter 2: Tense
 - [ ] Chapter 3: Infinitive
 - [ ] Chapter 4: Gerund
 - [ ] Chapter 5: Participle
