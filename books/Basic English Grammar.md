@@ -7,7 +7,7 @@
 ## Chapters
 - [x] Chapter 1: Verbs
 - [x] Chapter 2: Tense
-- [ ] Chapter 3: Infinitive
+- [x] Chapter 3: Infinitive
 - [ ] Chapter 4: Gerund
 - [ ] Chapter 5: Participle
 - [ ] Chapter 6: Auxiliary
