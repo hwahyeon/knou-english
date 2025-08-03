@@ -9,7 +9,7 @@
 - [x] Chapter 2: Tense
 - [x] Chapter 3: Infinitive
 - [x] Chapter 4: Gerund
-- [ ] Chapter 5: Participle
+- [x] Chapter 5: Participle
 - [ ] Chapter 6: Auxiliary
 - [ ] Chapter 7: Voice
 - [ ] Chapter 8: Mood
