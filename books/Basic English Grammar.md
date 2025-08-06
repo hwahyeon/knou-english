@@ -10,7 +10,7 @@
 - [x] Chapter 3: Infinitive
 - [x] Chapter 4: Gerund
 - [x] Chapter 5: Participle
-- [ ] Chapter 6: Auxiliary
+- [x] Chapter 6: Auxiliary
 - [ ] Chapter 7: Voice
 - [ ] Chapter 8: Mood
 - [ ] Chapter 9: Agreement and Narration
