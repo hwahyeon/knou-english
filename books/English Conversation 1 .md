@@ -5,7 +5,7 @@
 **Labels:** English Conversation 1
 
 ## Chapters
-- [ ] Chapter 1: Introducing Friends
+- [x] Chapter 1: Introducing Friends
 - [ ] Chapter 2: Hobbies
 - [ ] Chapter 3: Dalily Life
 - [ ] Chapter 4: Social Media
