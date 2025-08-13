@@ -22,6 +22,7 @@ Project progress is tracked on this [GitHub Project board](https://github.com/us
 |2-2|Society and Culture of America|미국의사회와문화||||
 |3-1|Practical English Tests|테스트영어연습||||
 |3-1|The Study of English Language|영어학의이해||||
+|3-1|Understanding English-speaking Countries|영어권국가의이해||||
 |3-1|Literature for Young Adults|영미아동문학||||
 |3-1|Basic English Poems|영시읽기의기초||||
 |3-2|The Pronunciation of English|영어발음의원리||||
