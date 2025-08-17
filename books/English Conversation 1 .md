@@ -7,7 +7,7 @@
 ## Chapters
 - [x] Chapter 1: Introducing Friends
 - [x] Chapter 2: Hobbies
-- [ ] Chapter 3: Dalily Life
+- [x] Chapter 3: Dalily Life
 - [ ] Chapter 4: Social Media
 - [ ] Chapter 5: On the way to the Library
 - [ ] Chapter 6: Tips for Studying
