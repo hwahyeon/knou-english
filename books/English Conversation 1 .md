@@ -11,8 +11,8 @@
 - [x] Chapter 4: Social Media
 - [x] Chapter 5: On the way to the Library
 - [x] Chapter 6: Tips for Studying
-- [ ] Chapter 7: Teacher’s Day
-- [ ] Chapter 8: Transportaions
+- [x] Chapter 7: Teacher’s Day
+- [x] Chapter 8: Transportaions
 - [ ] Chapter 9: Shopping and Getting a Refund
 - [ ] Chapter 10: Hair Shop
 - [ ] Chapter 11: Food Court
