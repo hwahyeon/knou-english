@@ -13,7 +13,7 @@
 - [x] Chapter 6: Tips for Studying
 - [x] Chapter 7: Teacher’s Day
 - [x] Chapter 8: Transportaions
-- [ ] Chapter 9: Shopping and Getting a Refund
+- [x] Chapter 9: Shopping and Getting a Refund
 - [ ] Chapter 10: Hair Shop
 - [ ] Chapter 11: Food Court
 - [ ] Chapter 12: Making Korean Food
