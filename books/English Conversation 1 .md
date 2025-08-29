@@ -15,7 +15,7 @@
 - [x] Chapter 8: Transportaions
 - [x] Chapter 9: Shopping and Getting a Refund
 - [x] Chapter 10: Hair Shop
-- [ ] Chapter 11: Food Court
+- [x] Chapter 11: Food Court
 - [ ] Chapter 12: Making Korean Food
 - [ ] Chapter 13: Delivery Application
 - [ ] Chapter 14: International Clinic
