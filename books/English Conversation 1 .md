@@ -16,7 +16,7 @@
 - [x] Chapter 9: Shopping and Getting a Refund
 - [x] Chapter 10: Hair Shop
 - [x] Chapter 11: Food Court
-- [ ] Chapter 12: Making Korean Food
+- [x] Chapter 12: Making Korean Food
 - [ ] Chapter 13: Delivery Application
 - [ ] Chapter 14: International Clinic
 - [ ] Chapter 15: Saying Goodbye
