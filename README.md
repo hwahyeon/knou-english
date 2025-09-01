@@ -9,7 +9,7 @@ Project progress is tracked on this [GitHub Project board](https://github.com/us
 |1-1|Basic English Grammar|영문법의기초|||
 |1-1|Introduction to Human Language|인간과언어|||
 |1-1|Multimedia English|멀티미디어영어|||
-|1-1|English Conversation 1|영어회화1|||
+|1-1|English Conversation 1|영어회화1||✔|
 |1-2|College English|대학영어|||
 |1-2|Listening practice|영어듣기연습|||
 |1-2|Everyday English|생활영어|||
