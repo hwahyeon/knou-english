@@ -18,5 +18,5 @@
 - [x] Chapter 11: Food Court
 - [x] Chapter 12: Making Korean Food
 - [x] Chapter 13: Delivery Application
-- [ ] Chapter 14: International Clinic
+- [x] Chapter 14: International Clinic
 - [ ] Chapter 15: Saying Goodbye
