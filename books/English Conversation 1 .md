@@ -19,4 +19,4 @@
 - [x] Chapter 12: Making Korean Food
 - [x] Chapter 13: Delivery Application
 - [x] Chapter 14: International Clinic
-- [ ] Chapter 15: Saying Goodbye
+- [x] Chapter 15: Saying Goodbye
