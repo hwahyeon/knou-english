@@ -5,7 +5,7 @@
 **Labels:** English Conversation 2
 
 ## Chapters
-- [ ] Chapter 1: Corny Jokes
+- [x] Chapter 1: Corny Jokes
 - [ ] Chapter 2: A Baby Shower or Doljanchi?
 - [ ] Chapter 3: Family Events with Strangers
 - [ ] Chapter 4: Moving
