@@ -6,7 +6,7 @@
 
 ## Chapters
 - [x] Chapter 1: Corny Jokes
-- [ ] Chapter 2: A Baby Shower or Doljanchi?
+- [x] Chapter 2: A Baby Shower or Doljanchi?
 - [ ] Chapter 3: Family Events with Strangers
 - [ ] Chapter 4: Moving
 - [ ] Chapter 5: Checking the Place Out
