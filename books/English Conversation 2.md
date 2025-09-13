@@ -9,7 +9,7 @@
 - [x] Chapter 2: A Baby Shower or Doljanchi?
 - [x] Chapter 3: Family Events with Strangers
 - [x] Chapter 4: Moving
-- [ ] Chapter 5: Checking the Place Out
+- [x] Chapter 5: Checking the Place Out
 - [ ] Chapter 6: Applying to Grad School
 - [ ] Chapter 7: Online Meeting with Peers
 - [ ] Chapter 8: Hold Your Horses
