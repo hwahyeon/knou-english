@@ -10,7 +10,7 @@
 - [x] Chapter 3: Family Events with Strangers
 - [x] Chapter 4: Moving
 - [x] Chapter 5: Checking the Place Out
-- [ ] Chapter 6: Applying to Grad School
+- [x] Chapter 6: Applying to Grad School
 - [ ] Chapter 7: Online Meeting with Peers
 - [ ] Chapter 8: Hold Your Horses
 - [ ] Chapter 9: Fakebook vs. Understagram
