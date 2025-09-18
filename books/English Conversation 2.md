@@ -12,7 +12,7 @@
 - [x] Chapter 5: Checking the Place Out
 - [x] Chapter 6: Applying to Grad School
 - [x] Chapter 7: Online Meeting with Peers
-- [ ] Chapter 8: Hold Your Horses
+- [x] Chapter 8: Hold Your Horses
 - [ ] Chapter 9: Fakebook vs. Understagram
 - [ ] Chapter 10: Issues in Twittie
 - [ ] Chapter 11: Job Interview
